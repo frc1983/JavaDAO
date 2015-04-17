@@ -1,4 +1,4 @@
-package trabalhotecnicasdb;
+package Main;
 
 import DAO.DiscountCodeDAO;
 import DAO.ProductCodeDAO;
